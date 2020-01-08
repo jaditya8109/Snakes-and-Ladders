@@ -58,6 +58,8 @@ var game = new function(){
 		if (!game.isGameOver()){
 			game.getPlayerTurn().move(snakesAndLadders);
 			updateTurn();
+            /*hello*/
+            
 		}
 	}
 
